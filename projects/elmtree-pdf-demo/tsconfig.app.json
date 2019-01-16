@@ -7,5 +7,10 @@
   "exclude": [
     "test.ts",
     "**/*.spec.ts"
-  ]
+  ],
+  "paths": {
+    "elmtree-pdf": [
+      "dist/elmtree-pdf"
+    ]
+  }
 }
